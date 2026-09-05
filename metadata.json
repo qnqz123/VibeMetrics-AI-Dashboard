@@ -1,0 +1,6 @@
+{
+  "name": "VibeMetrics",
+  "description": "Production-ready Full-Stack SaaS Dashboard for AI platform VibeMetrics with 3D interactive terrain, user metrics, real-time task logger CRUD, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
